@@ -1,5 +1,25 @@
 //: [Previous](@previous)
 
+//Now this file on github! 
+
+//Instructions when done with tutorial session
+
+/*
+ 
+ 1. Go on terminal
+ 2. cd Documents
+ 3. cd TreehouseTutorials
+ 4. git add .
+ 5. git commit -m "YOUR MESSAGE OF WHAT YOU DID"
+ 6. git push origin master
+ 
+ 
+ 
+ 
+ */
+
+
+
 
 // Operator Pecedence
 
